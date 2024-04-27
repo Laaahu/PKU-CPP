@@ -10,7 +10,7 @@
 #include <iostream>
 using namespace std;
 // 在此处补充你的代码
-int& getElement(int * a, int i)
+int& getElement(int * a, int i)   // int& 为补充的代码
 {
 	return a[i];
 }

@@ -15,7 +15,7 @@ int main()
 {
 	int * a[] = {
 // 在此处补充你的代码
-NULL, NULL, new int, new int[6]
+NULL, NULL, new int, new int[6]     //补充的代码
 };
 	
 	*a[2] = 123;
